@@ -25,7 +25,7 @@ SECRET_KEY = 'frvd1@w__(=3h1b(4ytq+6wx3qp*$mibc&62%7)cayey%-_pq4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['enisemir.duckdns.org']
 
 
 # Application definition
